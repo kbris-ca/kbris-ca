@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kbris-ca
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning Java, Python & PHP
+- 👀 I’m interested in learning all about IT
+- 🌱 I’m currently learning cybersecurity and Python and C programming languagues
 
 <!---
 kbris-ca/kbris-ca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
